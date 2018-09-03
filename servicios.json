@@ -1,0 +1,19 @@
+{
+	"prestaciones": [{
+		"id": 0,
+		"descripcion": "Wifi"
+	}, {
+		"id": 1,
+		"descripcion": "Aire acondicionado"
+	}, {
+		"id": 2,
+		"descripcion": "Mesas al aire libre"
+	}, {
+		"id": 3,
+		"descripcion": "Estacionamiento Gratis"
+	}, {
+	    "id":4,
+	    "descripcion": "Incluye Bebida"
+	}
+]
+}
